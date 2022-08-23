@@ -1,4 +1,4 @@
-# A Curated RL materials, collecting here, as I learn
+# A Curated RL materials, I'm using to learn
 This is just a personal documentation/learning notes, that I'm organizing while I learn.
 
 
