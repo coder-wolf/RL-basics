@@ -37,10 +37,10 @@ This is just a personal documentation/learning notes, that I'm organizing while 
 ## Resouces on Reinforcement Learning
 
 ### Lectures:
-1. [Reinforcement Learning lecture series| Stanford CS234](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+1. [Stanford CS234 - Reinforcement Learning lecture series](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
 ### Books
-1. [Reinforcement Leraning | Burto & Sutton](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
+1. [Burto & Sutton - Reinforcement Leraning](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 
 ### Website
-1. [Spinning up in DeepRL | OpenAI](https://spinningup.openai.com/en/latest/)
+1. [OpenAI - Spinning up in DeepRL](https://spinningup.openai.com/en/latest/)
