@@ -3,7 +3,7 @@ This is just a personal documentation/learning notes, that I'm organizing while 
 
 
 
-### Reinforcement Learning major Algorithms, displayed in taxonomy view. [Source: OpenAI, spinning up](https://spinningup.openai.com/en/latest/spinningup/rl_intro2.html)
+## Reinforcement Learning major Algorithms, displayed in taxonomy view. [Source: OpenAI, spinning up](https://spinningup.openai.com/en/latest/spinningup/rl_intro2.html)
 
 ```
 						              | [] 1. World Models
@@ -33,3 +33,9 @@ This is just a personal documentation/learning notes, that I'm organizing while 
 				       
 				       
 ```
+
+
+### Lectures on Reinforcement Learning:
+[Reinforcement Learning | Stanford CS234](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+
+
