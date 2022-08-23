@@ -1,4 +1,4 @@
-# RL-algorithms
+# A Curated RL materials, collecting here, as I learn
 
 ```
 						              | [] 1. World Models
