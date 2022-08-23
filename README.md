@@ -34,8 +34,13 @@ This is just a personal documentation/learning notes, that I'm organizing while 
 				       
 ```
 
+## Resouces on Reinforcement Learning
 
-### Lectures on Reinforcement Learning:
-[Reinforcement Learning | Stanford CS234](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+### Lectures:
+1. [Reinforcement Learning lecture series| Stanford CS234](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
+### Books
+1. [Reinforcement Leraning | Burto & Sutton](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
 
+### Website
+1. [Spinning up in DeepRL | OpenAI](https://spinningup.openai.com/en/latest/)
