@@ -44,3 +44,11 @@ This is just a personal documentation/learning notes, that I'm organizing while 
 
 ### Website
 1. [OpenAI - Spinning up in DeepRL](https://spinningup.openai.com/en/latest/)
+
+### Libraries, Simulators
+1. [OpenAI - gym](https://www.gymlibrary.ml/) -- Atari, 
+
+
+### Awesome List
+1. [Awesome RL](https://github.com/aikorea/awesome-rl)
+2. [Awesome Deep RL](https://github.com/kengz/awesome-deep-rl)
