@@ -34,7 +34,7 @@ This is just a personal documentation/learning notes, that I'm organizing while 
 				       
 ```
 
-## Resouces on Reinforcement Learning
+## Resouces on Reinforcement Learning, I'm using to learn.
 
 ### Lectures:
 1. [Stanford CS234 - Reinforcement Learning lecture series](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
