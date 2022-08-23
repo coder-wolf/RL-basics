@@ -49,6 +49,6 @@ This is just a personal documentation/learning notes, that I'm organizing while 
 1. [OpenAI - gym](https://www.gymlibrary.ml/) -- Atari, 
 
 
-### Awesome List
+### Awesome Lists
 1. [Awesome RL](https://github.com/aikorea/awesome-rl)
 2. [Awesome Deep RL](https://github.com/kengz/awesome-deep-rl)
