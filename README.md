@@ -1,6 +1,6 @@
-# A Curated RL materials, I'm using to learn
+# Code, I've written while writting.
 This is just a personal documentation/learning notes, that I'm organizing while I learn.
-
+Feel free to use all these for your learning
 
 
 ## Reinforcement Learning major Algorithms, displayed in taxonomy view. [Source: OpenAI, spinning up](https://spinningup.openai.com/en/latest/spinningup/rl_intro2.html)
